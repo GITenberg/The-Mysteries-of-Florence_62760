@@ -1,0 +1,26 @@
+_repo: The-Mysteries-of-Florence_62760
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lippard, George
+    birthdate: 1822
+    deathdate: 1854
+    gutenberg_agent_id: '49601'
+    url: http://www.gutenberg.org/2009/agents/49601
+    wikipedia: https://en.wikipedia.org/wiki/George_Lippard
+description: ''
+gutenberg_issued: '2020-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62760'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Murder -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Florence (Italy) -- Fiction'
+- GITenberg
+title: The Mysteries of Florence
+url: http://www.gutenberg.org/ebooks/62760
